@@ -6,7 +6,7 @@
 - 🤔 &nbsp;  Always on the lookout for cool new tech and ways to whip up quick software solutions.
 - 🎓 &nbsp; Front End Developer & Webflow fan, always learning new libraries and React stuff.
 - 💼 &nbsp; Running my own web dev agency, making awesome and user-friendly websites.
-- 🌱 &nbsp; Learning more about LinkedIn, Marketing and AI.
+- 🌱 &nbsp; Learning more about LinkedIn, Marketing, and AI.
 - ✍️ &nbsp; Pursuing Design and Figma as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
@@ -29,6 +29,7 @@
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Canva](https://img.shields.io/badge/-canva-333333?style=flat&logo=adobe-canva)
+   ![Webflow](https://img.shields.io/badge/-webflow-333333?style=flat&logo=adobe-webflow)
 
 <br/>
 
