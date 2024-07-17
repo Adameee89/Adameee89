@@ -43,9 +43,9 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.flow-phoenix.com/"><img alt="Website" src="[https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome](https://www.flow-phoenix.com/)"></a>
-<a href="https://www.linkedin.com/in/adamvegvari/"><img alt="LinkedIn" src="[https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedi](https://www.linkedin.com/in/adamvegvari/)n"></a>
-<a href="https://www.instagram.com/a.vegvari"><img alt="Instagram" src="[https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram](https://www.instagram.com/a.vegvari/?hl=hu)"></a>
+<a href="https://www.flow-phoenix.com/"><img alt="Website" src="https://img.shields.io/badge/Website-www.flow-phoenix.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/adamvegvari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adam Vegvari-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/a.vegvari"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-a.vegvari-blue?style=flat-square&logo=instagram"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
