@@ -43,7 +43,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.flow-phoenix.com/"><img alt="Website" src="https://img.shields.io/badge/Website-flow-phoenix-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.flow-phoenix.com/"><img alt="Website" src="https://img.shields.io/badge/Website-flowphoenix-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/adamvegvari/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Adam Vegvari-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/a.vegvari"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-a.vegvari-blue?style=flat-square&logo=instagram"></a>
 </p>
