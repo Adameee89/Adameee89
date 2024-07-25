@@ -48,4 +48,4 @@
 <a href="https://www.instagram.com/a.vegvari"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-a.vegvari-blue?style=flat-square&logo=instagram"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
+⭐️ From [Adamee](https://github.com/AVS1508)
